@@ -1,1 +1,1 @@
-# Fire_segmentation_YoloV7
+# Fire_segmentation_YoloV8
